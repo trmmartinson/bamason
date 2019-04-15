@@ -13,22 +13,22 @@ CREATE TABLE products(
   PRIMARY KEY (item_id)
 );
 insert into products (product_name, department_name, price, stock_quantity) 
-    values ("ephedrine HCL 100g","usp", 24.95, 100);
+    values ("ephedrine HCL 100g","USP", 24.95, 155);
 insert into products (product_name, department_name, price, stock_quantity) 
-    values ("toluene 1L","sovents", 24.95, 100);
+    values ("toluene 1L","solvents", 24.95, 212);
 insert into products (product_name, department_name, price, stock_quantity) 
-    values ("dimenthylbenzine 1L","sovent", 24.95, 100);
+    values ("dimenthylbenzine 1L","solvent", 24.95, 144);
 insert into products (product_name, department_name, price, stock_quantity) 
-    values ("dichloroethane 1L","sovent", 24.95, 100);
+    values ("dichloroethane 1L","solvent", 24.95, 133);
 insert into products (product_name, department_name, price, stock_quantity) 
-    values ("lithium aluminum hydride 10g","reduction", 24.95, 100);
+    values ("lithium aluminum hydride 10g","reduction", 24.95, 10);
 insert into products (product_name, department_name, price, stock_quantity) 
-    values ("indole 200g","organic", 124.95, 100);
+    values ("indole 200g","organic", 124.95, 15);
 insert into products (product_name, department_name, price, stock_quantity) 
-    values ("piperidine","organic 10g", 24.95, 100);
+    values ("piperidine 10g","organic", 24.95, 500);
 insert into products (product_name, department_name, price, stock_quantity) 
-    values ("safarole 10g","organic", 24.95, 100);
+    values ("safarole 10g","organic", 24.95, 900);
 insert into products (product_name, department_name, price, stock_quantity) 
-    values ("nitroethane 500ml","solvent", 24.95, 100);
+    values ("trinitrophenol 10g","4'th of July", 24.95, 23);
 insert into products (product_name, department_name, price, stock_quantity) 
-    values ("nitroethane 500ml","solvent", 24.95, 100);
+    values ("Iodine 10g","element", 4.95, 85);
